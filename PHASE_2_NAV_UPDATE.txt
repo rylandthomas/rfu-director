@@ -1,0 +1,9 @@
+PHASE 2 — NAVIGATION UPDATE
+
+Removed the standalone Relationships item from the left sidebar.
+
+Relationship information remains available on the Overview screen and continues
+to operate internally for lifecycle events, media tone and stakeholder reactions.
+
+No relationship simulation logic has been removed.
+Previous Phase 2 builds remain unchanged.

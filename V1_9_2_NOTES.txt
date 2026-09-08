@@ -1,0 +1,12 @@
+RFU Director V1.9.2 — Professional Rugby navigation hotfix
+
+Root cause fixed:
+- Clicking Professional Rugby changed the active page correctly.
+- Rendering then crashed because p3ProfessionalOverviewHTML() called p3Band(), but p3Band() had never been defined.
+- The old page remained on screen, making the sidebar button appear completely unresponsive.
+
+Fixes:
+- Added p3Band() stability labelling.
+- Added migration for old saved professionalView='health' to the current Overview.
+- Retained the V1.9.1 RFU Policy controls.
+- Save migration now accepts V1.9.1 and V1.9.0 saves.

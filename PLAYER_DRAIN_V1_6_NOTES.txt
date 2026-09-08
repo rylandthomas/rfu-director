@@ -1,0 +1,30 @@
+Player Drain Index V1.6
+
+Adds two hidden measures:
+- Current Drain: present impact of England-relevant players currently overseas.
+- Structural Drain: slower-moving persistent pressure caused by sustained player loss.
+
+Player weighting uses:
+- age / career stage
+- England status
+- caps
+- years already abroad
+- generated future-player status
+
+Drain contribution is split into:
+- young
+- prime
+- senior
+- veteran
+- generated-player contribution
+
+Normal movement remains hidden.
+Only sustained serious structural drain can create a Professional Game Concern RFU event.
+
+Stress test:
+stress_test_player_drain_index_v1_6.js
+50 fresh runs x 25 years under:
+- Domestic only
+- Domestic + 50 caps
+- 5-year service
+- Open selection

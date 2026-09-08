@@ -1,0 +1,10 @@
+RFU Director V1.8.3
+
+Fixes:
+- Development Network now renders through the game's actual render() lifecycle.
+- It appears only inside the existing Development page.
+- Removed the faulty V1.8.2 wrapper that checked the wrong state object.
+- Professional Rugby Overview again includes RFU-facing Professional Game relationships,
+  active decision issues, and the Professional Game Partnership agreement panel.
+- Professional clubs remain autonomous: RFU action is exposed only when an RFU-relevant
+  funding, player access, welfare, governance or stability issue occurs.

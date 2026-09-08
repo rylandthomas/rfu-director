@@ -1,0 +1,14 @@
+International > Manager added.
+
+Current implementation:
+- England-only head coach overview.
+- Altered-name coach: Stefan Borthwick.
+- Contract, salary and appointment year.
+- RFU relationship, squad morale and public approval.
+- Tactical approach, selection philosophy, youth trust, player management and media handling.
+- Personality, tactical identity and selection tendency descriptors.
+- Private Meeting, Contract, Manager Market and Review Position controls.
+- Controls currently log the Director action without prematurely implementing dismissal/appointment systems.
+- England match record is designed to persist and update from played England fixtures.
+
+This deliberately keeps the user at RFU Director level: the coach controls selection/tactics; the Director oversees appointment, relationship, expectations and contract.

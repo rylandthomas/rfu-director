@@ -1,0 +1,11 @@
+PHASE 2 — OVERVIEW RELATIONSHIP UPDATE
+
+The Overview RFU Relationships card now mirrors the full Phase 2 relationship set:
+- Board
+- Supporters
+- Media
+- Professional clubs
+- Community Rugby
+- Players
+
+This remains a separate Phase 2 build; previous builds are unchanged.

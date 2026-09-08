@@ -1,0 +1,31 @@
+PHASE 2 — COMMITMENT DECISION SYSTEM
+
+Separate build.
+
+Timed commitment follow-ups are no longer free-text interviews.
+
+When a commitment comes due, the popup now shows:
+- original wording
+- promised timing
+- recorded amount (if any)
+- concrete management options
+
+Options:
+- Honour the promised amount
+- Increase the commitment
+- Reduce the commitment
+- Delay by 1 month
+- Delay by 3 months
+- Delay by 6 months
+- Withdraw commitment
+
+Effects:
+- Honour/increase/reduce can deduct real RFU cash
+- Relevant programme and delayed consequences are applied
+- Delay creates a new deadline and stakeholder penalties
+- Withdraw avoids immediate expenditure but causes a larger trust/reputation hit
+- Decisions are written into Inbox & Media
+
+Referee example:
+A previously promised £500k referee commitment will now return as a proper decision screen,
+not another free-text question.

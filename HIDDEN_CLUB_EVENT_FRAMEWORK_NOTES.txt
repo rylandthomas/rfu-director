@@ -1,0 +1,25 @@
+Hidden club-event framework
+
+Club-level events are now simulated internally and do not automatically appear to the RFU Director.
+
+Hidden event types:
+- owner commitment reduction
+- playing-budget cut
+- academy/pathway cut
+- commercial gain
+- commercial loss
+- owner investment
+- debt restructuring
+- sporting momentum
+
+Persistent hidden modifiers:
+owner support, commercial strength, wage budget, player retention, recruitment, academy investment, operating costs.
+
+Events have durations, stack, expire, feed into the accounts-based finance engine, and slowly influence squad/academy strength.
+
+RFU relevance filter:
+Potential England-retention pressure is recorded as a hidden signal only. It does NOT create an inbox story.
+A future player contract/transfer consequence must actually affect England eligibility before the RFU is notified.
+
+Developer audit:
+stress_test_hidden_club_events.js is included only to inspect hidden event frequency.

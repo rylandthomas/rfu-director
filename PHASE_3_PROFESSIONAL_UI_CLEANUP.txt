@@ -1,0 +1,10 @@
+PHASE 3 STAGE 1 — PROFESSIONAL RUGBY LAYOUT CLEANUP
+
+Fixed:
+- Removed the duplicate Phase 3 Premiership table.
+- The existing Professional Game Premiership table remains the single authoritative table.
+- Phase 3 now adds ecosystem/club-health information around the existing page instead of duplicating it.
+- Summary box information has been condensed onto the same line where practical.
+- Club cards have been widened to reduce unnecessary wrapping/vertical space.
+
+No simulation logic changed.

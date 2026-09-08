@@ -1,0 +1,11 @@
+Manager Stage 2 implemented.
+
+- England results affect head-coach approval and support, weighted by opponent strength.
+- Rolling last-10 England results.
+- Formal performance review.
+- Back Manager / Set Higher Expectations / Dismiss Manager.
+- Dismissal compensation and interim-coach state.
+- Contract review and two-year extension.
+- Manager market with altered-name candidates.
+- Available candidates can be approached and appointed once the post is interim.
+- England-only for now.

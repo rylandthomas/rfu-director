@@ -1,0 +1,26 @@
+PHASE 2 — CONTEXTUAL REACTION IMPROVEMENT
+
+Separate build.
+
+Key improvement:
+- Reaction/article text now pulls concepts directly from the player's response.
+- Recognised concepts include:
+  coaching, investment, grassroots, facilities, schools, youth, academies,
+  players, clubs, welfare, finances, private-business/remit arguments,
+  supporters, media, reviews and future action.
+
+Example:
+Player:
+"Investment in facilities and grassroots rugby has helped."
+
+The reaction can now say:
+"The RFU attributed England’s progress to continued investment across the game,
+improved facilities and the grassroots and community game."
+
+instead of:
+"The response touched on the issue but lacked detail."
+
+Brief-but-relevant answers are treated as concise, not automatically poor or robotic.
+
+The hidden interpreter still scores relevance and stakeholder effects underneath,
+but the player-facing reaction is now assembled around what the player actually said.

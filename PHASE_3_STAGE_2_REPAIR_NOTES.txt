@@ -1,0 +1,19 @@
+PHASE 3 STAGE 2 — BLANK SCREEN REPAIR
+
+Rebuilt from the last working Fresh Start Aligned build.
+
+FIX:
+- Removed the startup reset logic that caused the blank-screen build.
+- Fresh slate is now achieved safely with a new localStorage save key only.
+- No Phase 3 state is deleted or recreated during startup.
+
+STATUS PILL:
+- Stable / Strong / Excellent use one shared compact CSS pill.
+- Same height, padding, alignment and border across Premiership and Championship.
+- Club headers use the same shared layout.
+
+PRESERVED:
+- Premiership + Championship aligned UI.
+- Both divisions begin from the same clean season on this new save key.
+- England-only visible calendar.
+- Background professional simulation.

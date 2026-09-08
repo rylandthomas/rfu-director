@@ -1,0 +1,16 @@
+V2 hidden club event framework
+
+Changes:
+- hidden events now depend on actual club pressure state;
+- clubs choose between several financial/organisational responses;
+- repeated event types have long cooldowns;
+- budget cuts cannot simply fire every few months forever;
+- persistent pressure escalates the chance/severity of management action;
+- recovery reduces escalation;
+- academy cuts can now occur under deeper pressure;
+- owner investment, debt restructuring, recruitment freezes and commercial restructuring compete with budget cuts as responses;
+- recovery can trigger academy reinvestment;
+- commercial events remain sparse;
+- hidden events remain invisible to the RFU unless a later England consequence makes them relevant.
+
+Run stress_test_hidden_club_events_v2.js for the updated audit.

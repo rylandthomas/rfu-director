@@ -1,0 +1,35 @@
+RFU DIRECTOR — PHASE 3 STAGE 2: CHAMPIONSHIP
+
+Stage 2 adds a persistent second tier beneath the Premiership.
+
+CHAMPIONSHIP
+- 12 persistent clubs
+- 22-round background season
+- W / D / L / points / points difference
+- squad
+- academy
+- facilities
+- financial health
+- cash and debt
+- supporter base
+- RFU relationship
+- organisational stability
+- attendance
+- promotion-standard eligibility
+
+PROFESSIONAL RUGBY
+Now organised as:
+Overview | Premiership | Championship | Club Health
+
+PLAYER PACING
+The England-focused calendar is unchanged.
+Championship fixtures are hidden internal events and progress automatically while
+the game advances from one England international to the next.
+
+SEASON ROLLOVER
+Championship history is recorded and the competition resets through the actual
+seasonReview() function.
+
+NOT YET ACTIVE
+Promotion/relegation between Championship and Premiership.
+That remains Phase 3 Stage 3 after this build is tested.

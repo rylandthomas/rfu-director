@@ -1,0 +1,27 @@
+PHASE 2 — LOW FREQUENCY EVENT BALANCE
+
+Separate build.
+
+New target:
+- 3 to 5 routine/discretionary lifecycle popups per season.
+- Each season receives a stable target of 3, 4 or 5.
+
+Routine events:
+- minimum roughly 6–8 weeks apart
+- exact event cooldown ~330 days
+- topic/family cooldown ~240 days
+- ordinary topic can appear only once per season
+- recent sources/topics are heavily deprioritised
+
+Examples:
+- Women's Development should not appear twice in one normal season.
+- Grassroots funding should not keep recycling.
+- Media outlets should rotate more naturally.
+
+NOT counted in the 3–5 limit:
+- timed commitments coming due
+- forced crises
+- major events explicitly marked as such
+
+Goal:
+Popups should feel significant rather than becoming the core way time progression is interrupted.

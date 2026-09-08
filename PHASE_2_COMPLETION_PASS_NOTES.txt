@@ -1,0 +1,58 @@
+RFU DIRECTOR — PHASE 2 COMPLETION PASS
+
+This is a NEW separate Phase 2 build.
+Earlier Phase 1 and Phase 2 builds remain untouched.
+
+ADDED IN THIS PASS
+
+1. Expanded contextual event library
+- Referee shortages
+- Schools rugby decline
+- Uneven academy access
+- Supporter matchday/ticket concerns
+- Sponsor reputation warnings
+- Strong U20 pathway media opportunities
+- Professional-club relationship crises
+- Existing media/player/community/board events remain
+
+2. Delayed consequences
+Selected decisions now schedule outcomes months later.
+Examples:
+- referee investment can improve referee availability
+- schools funding can improve youth participation
+- academy investment can improve pathway ratings
+- refusing community intervention can later reduce participation
+- club-RFU talks can produce later relationship benefits
+
+Delayed outcomes create Inbox & Media stories when they mature.
+
+3. Programme outcomes
+Every few in-game weeks/months:
+- sustained Grassroots quality affects registered-player growth
+- sustained Schools quality affects youth-player growth
+- Academies + U20 + Coaching gradually influence senior elite programme quality
+- Community / Clubs / Players relationships influence how effectively those programmes deliver
+
+4. More temporary consequences
+- community/ticket decisions can alter England attendance for 1–2 matches
+- some media/commercial decisions can temporarily affect sponsor interest
+- effects expire automatically
+
+5. No new menu clutter
+The player sees consequences through:
+- Overview
+- Finances
+- programme ratings
+- attendance/results
+- Inbox & Media
+- future lifecycle events
+
+TEST
+- Play at least one full season.
+- Watch for event variety and repetition.
+- Make different choices on community/schools/referee/academy issues.
+- Continue 6–18 months and look for follow-up stories tied to previous decisions.
+- Compare registered-player and youth-player totals over time.
+- Confirm strong/weak pathway investment slowly influences elite programme quality.
+- Check temporary attendance effects disappear after the stated number of England matches.
+- Check sponsor-related events can influence later commercial strength without showing a visible buff number.

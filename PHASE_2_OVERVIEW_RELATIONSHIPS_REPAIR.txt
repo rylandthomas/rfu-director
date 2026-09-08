@@ -1,0 +1,15 @@
+PHASE 2 — OVERVIEW RELATIONSHIPS REPAIR
+
+This is a new separate Phase 2 build.
+
+The Overview -> RFU relationships card now explicitly renders:
+- Board
+- Supporters
+- Media
+- Professional clubs
+- Community Rugby
+- Players
+
+The standalone Relationships sidebar item remains removed.
+The relationship simulation/event logic is unchanged.
+Existing saves are given default Community Rugby and Players values if those fields are absent.

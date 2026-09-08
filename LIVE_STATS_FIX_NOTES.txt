@@ -1,0 +1,18 @@
+RFU DIRECTOR — LIVE MATCH STATS FIX
+
+Fixed a future-data leak in the international match screen.
+
+Previously:
+- scoreboard used events up to the current minute;
+- England tries displayed the FINAL simulated match try total;
+- possession/territory displayed one precomputed future block value.
+
+Now:
+- score is event-derived up to the displayed minute;
+- tries are counted only from try events that have occurred by that minute;
+- possession is averaged only from completed simulation blocks up to that minute;
+- territory is averaged only from completed simulation blocks up to that minute.
+
+Example:
+At 18' and England leading 7-3, England Tries will show 1 unless a second try has
+actually occurred before 18'.

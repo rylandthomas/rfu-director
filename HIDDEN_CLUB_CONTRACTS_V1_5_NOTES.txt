@@ -1,0 +1,6 @@
+V1.5
+- Adds optional Veteran Cap Exemption to England selection policy data.
+- Default: OFF; threshold: 50 England caps.
+- A qualifying veteran can remain England-eligible after an overseas move.
+- Qualifying veterans lose the England-selection deterrent in hidden transfer decisions.
+- New 50x20-year stress test compares Domestic Only, Domestic + 50 Caps, 5-Year Service, and Open Selection.

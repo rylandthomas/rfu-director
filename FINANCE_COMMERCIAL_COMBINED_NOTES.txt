@@ -1,0 +1,20 @@
+RFU DIRECTOR — FINANCE & COMMERCIAL CONSOLIDATION
+
+Changed the sidebar:
+- Removed separate Commercial entry.
+- Finances renamed to Finance & Commercial.
+
+New sub-tabs:
+- Overview
+- Income
+- Expenditure
+- Commercial
+- Contracts
+
+Overview keeps the Stage 1 annual forecast and liquidity view.
+Income isolates the revenue breakdown.
+Expenditure isolates the spending breakdown.
+Commercial contains current sponsorship and partner agreements.
+Contracts shows major long-term financial commitments in one place.
+
+This keeps all money-related systems under one main navigation section and saves sidebar space.

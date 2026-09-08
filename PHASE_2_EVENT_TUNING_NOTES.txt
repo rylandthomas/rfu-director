@@ -1,0 +1,26 @@
+PHASE 2 — EVENT TUNING / CONTEXT UPDATE
+
+Separate build. Earlier builds remain untouched.
+
+Changes:
+- Decision History removed from left navigation.
+- Lifecycle popup frequency reduced substantially.
+- Same lifecycle event cannot recur for roughly 20 weeks / 140 days.
+- If no fresh eligible event exists, the game waits rather than forcing a repeat.
+- England-form media events now cite actual recent Test results.
+- Heavy defeats are specifically identified.
+- During a mature Six Nations table, the prompt can mention England's championship position.
+- Hidden stakeholder relationships now have actual downstream effects:
+  * Players + Professional Clubs subtly affect England preparation/performance.
+  * Community Rugby relationship subtly affects grassroots/youth programme effectiveness.
+  * Supporter/media/board standing already affects sponsorship market value.
+- Relationship effects remain hidden numerically.
+
+Test:
+1. Advance a full season and judge popup frequency.
+2. Confirm the same question does not recur within a few months.
+3. After a heavy England defeat, inspect any form-related media prompt for the actual opponent/score.
+4. In late Six Nations, inspect form questions for tournament context.
+5. Confirm Decision History is absent from the sidebar.
+6. Confirm Inbox & Media remains.
+7. Make player/club/community relationship choices and watch longer-term performance/participation rather than expecting instant visible buffs.

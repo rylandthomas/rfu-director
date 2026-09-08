@@ -1,0 +1,17 @@
+V3.1 calibration update
+
+Why:
+The first V3 audit still made RFU relevance too dependent on formal playing-budget cuts.
+
+Changes:
+- retention risk now also responds to commercial strain, owner commitment and normal contract cycles;
+- contract reviews exist in the stress test even at otherwise stable clubs;
+- overseas-move probability is influenced by club retention pressure AND England selection policy;
+- Domestic-only policy suppresses overseas moves but creates the highest individual eligibility consequence when a move happens;
+- Open selection increases overseas movement but creates no individual eligibility issue;
+- Open/service policies add systemic player-drain pressure to the English club game;
+- RFU retention meetings occur only when a real eligibility consequence exists;
+- pathway/governance/continuity routes remain independent;
+- event frequency remains moderated so Newcastle is vulnerable rather than permanently chaotic.
+
+Transfer cycles are accelerated in the audit only. The live game still has no manufactured named-player transfers yet.

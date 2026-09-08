@@ -1,0 +1,26 @@
+PHASE 2 — HUMAN REACTION UPDATE
+
+Separate build.
+
+Changed:
+- Removed engine-like feedback language from response reactions.
+- Stakeholder/media feedback is now written from the perspective of the group reacting.
+- Reactions vary by:
+  * topic
+  * hidden answer quality
+  * response tone
+  * whether a public commitment was made
+
+Topic-specific reaction sets now cover:
+- Community Rugby
+- England performance
+- Club/RFU relationship
+- Player welfare
+- Schools/youth
+- Academy/pathway access
+- Commercial reputation
+- Governance/media scrutiny
+
+The hidden response interpreter still runs, but the player is never told that an answer was
+"strong", "adequate", "weak" or "failed" by the interface. That assessment only selects the
+natural-language reaction shown.

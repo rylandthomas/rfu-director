@@ -1,0 +1,14 @@
+Professional Game System Stage 1
+
+Built:
+- Persistent Professional Game Partnership state.
+- PGP health and six stakeholder term areas.
+- Persistent financial health and RFU relationship for each Premiership club.
+- England player-group relationship/welfare state.
+- Clubs-to-players relationship.
+- Relationship screens now expose professional-game politics and club state.
+- Finance expenditure breaks the existing club-funding line into illustrative game allocations without double-counting it.
+- Removed the duplicated England programme commitment row.
+
+Stage 1 intentionally does NOT yet fire disputes or negotiations.
+Stage 2 can generate narratives from these persistent values: funding demands, release disputes, welfare/rest requests, academy arguments, distressed-club support and PGP renewal pressure.

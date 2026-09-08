@@ -1,0 +1,33 @@
+Hidden club contracts V1
+
+This is deliberately NOT an RFU-facing contract system.
+
+Every England-relevant player now has hidden club employment data:
+- current club
+- contract expiry
+- hidden salary band / approximate internal salary
+- club retention priority
+- club affordability
+- renewal intent
+- domestic interest
+- overseas interest
+- English service years
+- stable hidden player decision profile:
+  money, England ambition, loyalty, security, career ambition and overseas interest
+
+Monthly contract reviews:
+- begin inside the final 12 months;
+- can result in early renewal;
+- can create hidden retention-pressure cases;
+- can fail at expiry.
+
+V1 intentionally DOES NOT move a player after failed renewal.
+It leaves an unresolved hidden contract case for the next phase:
+hidden player movement / domestic and overseas offers.
+
+No club salary, club offer, affordability score or contract detail is added to the RFU UI.
+
+Developer audit:
+stress_test_hidden_club_contracts_v1.js
+
+Calibration update: formal reviews now occur only at 12/9/6/3-month milestones; failed renewal is counted once and held unresolved for the future movement engine.

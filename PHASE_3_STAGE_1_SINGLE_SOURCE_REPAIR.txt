@@ -1,0 +1,21 @@
+PHASE 3 STAGE 1 — SINGLE CLUB DATA SOURCE REPAIR
+
+This is a new separate Stage 1 build.
+
+Structural repair:
+- Phase 3 Club Health is now the authoritative source for:
+  academy
+  finance
+  facilities
+  RFU relationship
+  debt
+  attendance
+
+- Any legacy/professional-game club objects are synchronised from that source.
+- The Premiership table is competition-only.
+- Finance and Academy columns have been removed from the table.
+- Draws are included where supported.
+
+Expected result:
+Bath cannot show one academy rating in the league table and another in Club Health.
+There is now one Bath academy value used throughout the professional-rugby ecosystem.

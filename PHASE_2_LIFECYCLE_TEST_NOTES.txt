@@ -1,0 +1,34 @@
+RFU DIRECTOR — PHASE 2 LIFECYCLE TEST
+
+This is a separate Phase 2 project. Earlier Phase 1 and Phase 2 builds remain separate.
+
+CHANGES
+- Removed RFU Decisions from the sidebar.
+- Management decisions now happen as lifecycle popups while time advances.
+- Random/contextual event families include:
+  * media requests for comment
+  * Premiership/RFU stakeholder disputes
+  * community rugby issues
+  * player welfare
+  * board pressure
+  * commercial opportunities
+- Not every event has a financial implication.
+- Any known immediate cost/income is shown before choosing.
+- Hidden relationship effects are NOT shown.
+- Positive/Neutral/Negative relationship environment changes event frequency and available event pool.
+- Season context matters: Six Nations/autumn/summer can produce specific questions.
+- Recent poor England form can produce media pressure.
+- Responses create follow-up stories in Inbox & Media.
+- Decision History remains available.
+- Event cooldown/recent-topic memory reduces repetition.
+
+TEST
+1. Confirm RFU Decisions no longer appears in the sidebar.
+2. Advance by weeks repeatedly; lifecycle popups should appear naturally.
+3. Verify some media questions say "No immediate financial implication".
+4. Verify £2m support deducts £2m and £750k deducts £750k.
+5. Open Inbox & Media after responding; check the resulting story.
+6. Open Decision History; check the response is recorded.
+7. Advance into November / Six Nations to trigger context-specific questions.
+8. Let relationships worsen and confirm event environment becomes harsher/more frequent.
+9. Confirm Phase 1 calendar, Premiership and international simulation still work.

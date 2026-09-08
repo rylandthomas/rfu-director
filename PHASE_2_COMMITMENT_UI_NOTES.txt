@@ -1,0 +1,13 @@
+PHASE 2 — COMMITMENT REVIEW UI
+
+Updated:
+- Honour remains one-click.
+- Increase commitment now has an editable £ amount box.
+- Reduce commitment now has an editable £ amount box.
+- Delay is now one row with compact 1 / 3 / 6 month selectors.
+- Withdraw remains one-click.
+
+Validation:
+- Increase must be above the original commitment.
+- Reduce must be below the original commitment.
+- Delay keeps the commitment open and applies severity based on 1/3/6 months.

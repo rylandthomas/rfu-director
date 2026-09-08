@@ -1,0 +1,11 @@
+PHASE 2 EVENT VARIETY UPDATE
+
+- Exact event cooldown: ~300 days
+- Topic/family cooldown: ~180 days
+- Max 2 events from same topic per season
+- Max 10 lifecycle popups total per season
+- Event frequency reduced again
+- Same outlet/source is prevented from dominating consecutive events
+- Some common events now have multiple question/title variants
+- Added coach education, women's rugby growth and positive regional-rugby events
+- If nothing genuinely fresh is eligible, the game waits rather than repeating an old question

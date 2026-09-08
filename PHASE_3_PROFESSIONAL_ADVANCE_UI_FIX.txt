@@ -1,0 +1,9 @@
+PHASE 3 STAGE 1 — PROFESSIONAL RUGBY UI FIX
+
+Removed the time advancement controls from the Professional Rugby tab:
+- +1 Day
+- +1 Week
+- Next Event
+
+The controls remain available in the appropriate main/calendar areas.
+No Phase 3 simulation logic was removed.

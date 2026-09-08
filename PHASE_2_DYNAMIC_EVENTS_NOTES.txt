@@ -1,0 +1,34 @@
+RFU DIRECTOR — PHASE 2 DYNAMIC EVENTS
+
+Separate build.
+
+WHAT CHANGED
+- Core event families now build their wording from the live game state.
+- England performance questions can include:
+  * latest opponent
+  * actual score
+  * recent 5-Test record
+  * Six Nations table position
+  * heavy defeat margin
+- Positive England form can also generate success/opportunity media events.
+- Community questions use:
+  * Community Rugby relationship
+  * Grassroots programme strength
+  * registered player count
+- Schools questions use:
+  * Schools programme strength
+  * current youth player count
+- Club/RFU questions use:
+  * live Professional Clubs relationship
+- Media pressure questions use:
+  * live Media relationship
+  * latest England result
+- Academy / referee / sponsor questions now quote their live programme/relationship state.
+- Media outlet rotates dynamically rather than always being tied to one fixed outlet.
+- Existing topic cooldowns / season caps still apply.
+
+This is now a hybrid system:
+- authored event families and response choices
+- dynamically assembled titles/bodies from live simulation state
+
+This should produce much greater variety without relying on hundreds of fully hard-coded questions.

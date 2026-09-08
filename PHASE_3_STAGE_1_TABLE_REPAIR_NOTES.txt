@@ -1,0 +1,14 @@
+PHASE 3 STAGE 1 — PREMIERSHIP TABLE REPAIR
+
+Root cause:
+The table header had 8 columns, but each club row only rendered 7 cells.
+The Draw (D) cell was missing, shifting L / +/- / Pts one column to the left.
+
+Fixed structure:
+# | Club | P | W | D | L | +/- | Pts
+
+Also:
+- Draws now render from c.d (default 0).
+- Positive points differences show a + prefix.
+- Fixed table layout keeps every column aligned.
+- Finance and Academy remain outside the competition table.

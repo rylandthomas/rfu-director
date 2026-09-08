@@ -1,0 +1,9 @@
+RFU DIRECTOR — MANAGER TAB FIX
+
+Fixed the International sub-tab navigation.
+
+- Added setInternationalView(view).
+- Overview / Players / Manager now all route through the same explicit handler.
+- Manager button retains data-intview="manager".
+- internationalPage() correctly returns englandManagerPage() when Manager is selected.
+- Fresh save key used for isolated testing.

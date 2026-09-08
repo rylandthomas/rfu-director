@@ -1,0 +1,14 @@
+PHASE 3 STAGE 2 — ACCURATE LEAGUE FORMAT BOOT FIX
+
+Blank-screen root cause:
+Fresh startup generated the new professional fixture calendar before the Phase 3
+club constants had been initialised.
+
+The game now waits until all Phase 3 definitions are loaded, then creates the
+fresh season calendar immediately before initial render.
+
+Verified:
+- JavaScript syntax passes.
+- Empty-save runtime boot passes.
+- PREM and Champ match-event engines remain present.
+- 14-club Championship data remains present.

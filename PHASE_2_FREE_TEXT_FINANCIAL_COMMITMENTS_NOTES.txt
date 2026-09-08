@@ -1,0 +1,37 @@
+PHASE 2 — FREE-TEXT FINANCIAL COMMITMENTS
+
+Separate build.
+
+Implemented:
+- Explicit free-text spending commitments now affect actual RFU cash.
+- Examples recognised:
+  "We will invest £1m in referee infrastructure."
+  "We commit £750k to community clubs."
+  "We will spend £2 million on schools rugby."
+
+Not treated as immediate commitments:
+  "We have already invested £1m..."
+  "We could invest £1m..."
+  "We should consider £1m..."
+  "We will review whether £1m is needed..."
+
+Money is routed by subject:
+- referees -> Referee Development + delayed referee-availability effect
+- grassroots -> Community/Grassroots + participation consequence
+- schools/youth -> Schools programme + youth consequence
+- academies/pathway -> Academy/U20 consequence
+- coaching -> Coach Development
+- facilities -> delayed facility/community consequence
+- professional clubs -> club relationship/support
+- player welfare -> player relationship/preparation
+
+Referee questions now have a dedicated response profile.
+A response such as:
+  "We will commit £1m to grassroots referee infrastructure."
+should:
+- be recognised as directly relevant
+- deduct £1m immediately
+- record the finance transaction
+- improve referee/community outlook
+- schedule a later referee-availability consequence
+- produce a natural referee-specific reaction

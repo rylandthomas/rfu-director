@@ -1,0 +1,8 @@
+PHASE 3 STAGE 2 — ACCURATE PROFESSIONAL LEAGUE FORMATS
+
+PREM: 10 clubs, double round robin, 18 matches per club.
+Champ Rugby: 14 clubs, double round robin, 26 matches per club.
+Both are distributed across the same September-May professional season.
+League points: 4 win, 2 draw, try bonus for 4+ tries, losing bonus for defeat by 7 or fewer.
+Visible calendar remains England internationals only.
+This build uses a new save key; start a fresh career.

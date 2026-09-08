@@ -1,0 +1,39 @@
+RFU DIRECTOR — PHASE 3 / STAGE 1
+ENGLISH PROFESSIONAL RUGBY ECOSYSTEM
+
+Built from the frozen Phase 2 checkpoint. Phase 2 is untouched.
+
+Stage 1 introduces persistent Premiership club organisations.
+
+Each club now has:
+- squad strength
+- academy quality
+- facilities
+- financial health
+- cash/debt
+- supporter strength
+- RFU relationship
+- organisational stability
+- England-player count
+- attendance
+- form and persistent league record
+
+A Premiership simulation layer has also been added:
+- results/round progression
+- W/L/table points
+- points difference
+- club form
+- monthly financial/stability movement
+- slow academy development when clubs are healthy
+
+Professional Rugby now exposes:
+- Premiership table
+- most vulnerable club
+- strongest academy
+- England player concentration
+- individual club-health cards
+
+TEST THIS STAGE BEFORE STAGE 2.
+
+Stage 2 is intended to add the second tier / Championship and connect promotion,
+financial standards and the wider professional pyramid.

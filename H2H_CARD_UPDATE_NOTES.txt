@@ -1,0 +1,13 @@
+MATCH DAY H2H CARD UPDATE
+
+Changed the app itself.
+
+Before:
+- large top line showed recent result sequence such as:
+  W 25-7 · L 37-42 · W 21-17 ...
+
+After:
+- large top line now shows:
+  Recorded H2H: England 3W · 0D · 2L
+- dated recent meetings remain underneath.
+- the duplicate recorded-H2H line has been removed.

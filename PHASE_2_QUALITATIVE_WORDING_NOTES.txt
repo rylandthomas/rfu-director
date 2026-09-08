@@ -1,0 +1,14 @@
+PHASE 2 — QUALITATIVE EVENT WORDING
+
+Event/interview questions no longer expose internal relationship or programme scores such as 82/100.
+
+Examples:
+82 relationship -> "very strong"
+73 relationship -> "strong"
+55 relationship -> "mixed but stable"
+38 relationship -> "poor"
+
+Programme ratings are similarly translated into natural language such as:
+"performing strongly", "in good health", "showing mixed progress", or "causing growing concern".
+
+Dashboard/statistical screens are unchanged; this applies to contextual question/event prose.

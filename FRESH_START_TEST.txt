@@ -1,0 +1,12 @@
+Start a NEW GAME for this test.
+
+Expected:
+1. Premiership begins P0.
+2. Championship begins P0.
+3. Advance to England internationals.
+4. Both competitions accumulate played matches in the background.
+5. Premiership and Championship pages now use the same layout:
+   summary -> table -> club health.
+6. Both show Squad, Academy, Facilities, Financial health, RFU relationship, Debt, Attendance.
+7. Promotion standard is Championship-only.
+8. Main calendar remains England internationals only.

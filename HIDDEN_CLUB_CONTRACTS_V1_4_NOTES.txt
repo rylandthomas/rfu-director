@@ -1,0 +1,1 @@
+V1.4: qualifying English professional service, generated-player lifecycle, overseas returns, overseas-population tracking, and thresholded Professional Game Concern events.

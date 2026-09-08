@@ -1,0 +1,56 @@
+PHASE 2 — PENDING QUESTIONS + REGIONAL RUGBY
+
+Separate build. Previous Phase 2 builds remain unchanged.
+
+1) PENDING / MINIMISABLE QUESTIONS
+- Media and stakeholder questions now include "Review RFU data".
+- This minimises the question into a persistent bottom bar.
+- You can navigate the game normally while the question is pending.
+- +1 Day, +1 Week and Next Event are locked until you answer.
+- "Return to question" reopens the pending interview.
+- The original question/source/context is preserved.
+
+2) ENGLISH RUGBY -> REGIONAL RUGBY
+English Rugby now includes 8 management regions:
+- North East
+- North West
+- Yorkshire
+- Midlands
+- East
+- London
+- South East
+- South West
+
+Each tracks:
+- registered players
+- youth players
+- active clubs
+- volunteers
+- facilities
+- referees
+- annual RFU investment
+- community confidence
+- participation trend
+
+3) REGIONAL SIMULATION
+- Regions update periodically.
+- Grassroots / Schools / Referee programmes affect regional outcomes.
+- Community confidence and RFU investment affect growth.
+- National registered/youth totals are synced from the regions.
+
+4) REGIONAL MEDIA QUESTIONS
+Regional media events now use actual regional data.
+Example:
+"South West rugby growth attracts local media attention"
+The question can mention growth, volunteers, facilities and annual RFU investment.
+
+TEST
+- Trigger a media/stakeholder question.
+- Click Review RFU data.
+- Confirm the question minimises.
+- Navigate to English Rugby.
+- Confirm all 8 regional cards are visible.
+- Try +1 Week / +1 Day: they should be disabled while question is pending.
+- Return to question and answer it.
+- Confirm time controls unlock.
+- When a regional media question appears, inspect the named region before answering.

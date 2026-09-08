@@ -1,0 +1,29 @@
+Hidden Club Contracts V1.3
+
+Starting player cohort
+- Updated to the current 2026/27 England enhanced EPS cohort.
+- Real-world ages, clubs and recent England caps are used as the simulation baseline where available.
+- In-game player names remain deliberately altered.
+
+Career lifecycle
+- Players age each season.
+- Retirement becomes increasingly likely from the early 30s.
+- Key England players can extend careers somewhat longer.
+- Retired players leave the active England pool.
+- A new generated England-relevant prospect enters to keep the long-term talent pool alive.
+
+Hidden contract movement
+- Failed club renewals are now resolved in the hidden world.
+- Possible outcomes: another English club, overseas club, one-year bridge deal, or retirement.
+- England selection policy changes the attractiveness/consequence of an overseas move.
+- Club contract figures remain hidden from RFU UI.
+
+RFU relevance
+- Domestic moves stay silent.
+- Overseas moves that preserve England eligibility stay silent.
+- Overseas moves that make a significant England player ineligible create an RFU-facing eligibility event.
+- Raw club salary, offer and affordability data are never shown to the RFU Director.
+
+Developer test
+- stress_test_hidden_club_contracts_v1_3.js
+- 50 runs x 15 years under Domestic-only, 5-year service and Open selection.

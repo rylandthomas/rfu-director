@@ -1,0 +1,21 @@
+PHASE 2 — CLUB / RFU REMIT INTERPRETER REPAIR
+
+Separate build.
+
+Fix:
+- The response interpreter now separates RELEVANCE from STAKEHOLDER AGREEMENT.
+- A position such as:
+  "Premiership clubs are private businesses; their operating costs are their responsibility.
+   The RFU's role is the national programme and England players."
+  is recognised as answering the question.
+
+It may still produce:
+- negative Professional Clubs reaction
+- mildly negative media reaction
+- positive Board reaction for protecting RFU finances
+- possible small player/national-programme support
+
+But it should NOT be labelled as off-topic or a failed answer.
+
+A specific reaction has been added:
+"RFU takes hard line on Premiership funding request"

@@ -1,0 +1,29 @@
+PHASE 2 — MEDIA FEEDBACK UPDATE
+
+Separate build. Earlier Phase 1 and Phase 2 builds are not overwritten.
+
+IMPLEMENTED
+- Media lifecycle popup -> choose response -> immediate article-summary popup.
+- Article headline/body tone is influenced by:
+  * hidden media relationship effect of the selected response
+  * other hidden stakeholder effects
+  * current media standing
+  * the wording/type of response
+- Hidden numerical buffs/debuffs remain hidden.
+- Article summary is saved into Inbox & Media.
+- Non-media lifecycle decisions now get a brief stakeholder-response popup too.
+- Decision History still records the original question and chosen response.
+
+TEST
+1. Trigger Sky Sports/BBC/etc media question.
+2. Choose different response types across test runs:
+   - publicly back/support
+   - demand improvement
+   - review
+   - decline comment
+3. Confirm a second popup appears containing article-style feedback.
+4. Confirm negative/combative responses can produce more critical framing.
+5. Confirm supportive/conciliatory choices can produce softer framing.
+6. Confirm no relationship numbers are shown.
+7. Open Inbox & Media and confirm the article is stored.
+8. Confirm financial choices still affect cash normally.

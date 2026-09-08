@@ -1,0 +1,35 @@
+PHASE 2 — BALANCE & MEDIA REACTION UPDATE
+
+Separate Phase 2 build. Earlier builds remain untouched.
+
+Changes:
+1. International Rugby moved above Professional Rugby in the left navigation.
+
+2. Media follow-up articles rewritten:
+   - more emotional / journalistic
+   - less system-like wording
+   - criticism can escalate
+   - supportive coverage can sound genuinely supportive
+   - England-related stories can mention the latest actual result
+
+3. Relationship balancing:
+   - positive gains diminish sharply above 90
+   - negative effects are stronger when confidence is already high
+   - very high/very low standings slowly drift back toward sustainable levels
+   - 'Excellent' now requires a higher standing
+
+4. Short-term consequences:
+   - selected Community Rugby decisions can temporarily alter England home-match attendance
+   - positive community decisions can create a small 1–2 match attendance uplift
+   - poor community responses can cause a short attendance drop
+   - temporary effects expire after the relevant number of England matches
+
+5. Hidden impact remains hidden:
+   - no +5/-8 figures shown in event popups
+   - consequences are inferred through standings, articles, attendance and subsequent performance
+
+Suggested test:
+- compare article reactions across supportive/hostile answers
+- deliberately push a relationship above 90 and see whether it becomes harder to keep at 100
+- choose the £2m community fund and watch the next two England home matches
+- choose no community funding and compare

@@ -1,0 +1,32 @@
+PHASE 2 — TIMED COMMITMENTS
+
+Separate build.
+
+Implemented:
+- The interpreter now understands timing phrases such as:
+  * end of the season
+  * after the Six Nations
+  * after the autumn internationals
+  * after the World Cup
+  * next month
+  * in X weeks
+  * in X months
+
+Example:
+"We will review the problem at the end of the season and re-evaluate."
+
+Now becomes:
+- a stored Premiership funding commitment
+- due at season end
+- routine repeats of the same funding question are suppressed until then
+- once the date arrives, the game actively raises:
+  "Premiership clubs await promised RFU funding review"
+
+If the player delays again:
+- a new six-week deadline is created
+- stakeholder/media penalties apply
+
+If the player honours/closes the review:
+- the commitment is marked complete
+
+Timed commitments are handled separately from generic six-month promise checks.

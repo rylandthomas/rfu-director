@@ -1,0 +1,26 @@
+PHASE 3 STAGE 2 — FRESH BOOT FIX
+
+ROOT CAUSE OF BLANK SCREEN:
+A brand-new save reached this obsolete startup call:
+    generateSeasonCalendar()
+
+That function no longer exists.
+
+Older saves did not expose the bug because they already contained a populated calendar.
+
+REPAIR:
+Fresh startup now calls:
+    generateFutureCalendar(+S.season.slice(0,4))
+
+The build was checked in two ways:
+1. JavaScript syntax validation with Node.
+2. Fresh-state runtime bootstrap using empty localStorage and a DOM shim.
+
+The bootstrap completed successfully before packaging.
+
+Preserved:
+- new clean Stage 2 save key
+- Premiership + Championship fresh timeline
+- matched club-health layouts
+- uniform status pills
+- England-only visible calendar

@@ -1,0 +1,37 @@
+RFU Director V1.9.3 — National Estate Expansion
+
+Facilities & Infrastructure now operates as a real estate/capital programme.
+
+Performance Centre:
+- Outdoor training pitches
+- Indoor training hall
+- Strength & conditioning gym
+- Medical / physio / rehabilitation centre
+- Nutrition kitchen & dining hall
+- Residential camp lodge
+- U18 residential education centre
+- Analysis & meeting centre
+- Hydrotherapy & recovery suite
+
+National Stadium:
+- Hospitality & events
+- Premium seating / corporate boxes
+- Fan concourse & food halls
+- Broadcast & media centre
+- Pitch / drainage / grounds systems
+- Accessibility & arrival
+- Conference & event centre
+- Energy & sustainability retrofit
+- Major capacity & bowl expansion
+
+Difficulty / finances:
+- Capital cost paid from cash when approved
+- £25m board liquidity floor
+- Maximum two major national builds at once
+- Permanent annual operating costs begin on opening
+- Stadium commercial projects add revenue only after completion
+- Energy upgrades reduce base operating costs
+- Estate operating commitments appear in Finance
+- Construction phase and progress visible
+- Prerequisites gate advanced projects
+- Existing V1.9.2 / V1.9.1 / V1.9.0 saves migrate forward

@@ -1,0 +1,14 @@
+RFU DIRECTOR — MATCH DAY HISTORY UPDATE
+
+Implemented:
+- fixed England form [object Object] bug;
+- England form now renders W / D / L;
+- added a compact recent historical England results dataset;
+- Match Day H2H now works from the first fixture of a new save;
+- latest simulated career results are merged into the same H2H/history view;
+- recent five meetings are shown;
+- overall recorded England W/D/L against the opponent is shown;
+- dated score details are shown lightly under the recent H2H.
+
+This is intentionally a compact representative history layer, not a full all-time
+international results database.

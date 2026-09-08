@@ -1,0 +1,19 @@
+Professional Game Stage 2
+
+Added state-driven event generation:
+- financially distressed club support requests
+- England player workload/rest disputes
+- England-heavy club player-release disputes
+- collective Premiership funding demands
+- PGP governance/relationship pressure
+
+Events are deliberately sparse and require relevant underlying pressure.
+Director choices alter persistent:
+- RFU cash / annual club funding
+- individual club financial health
+- individual club RFU relationship
+- England player relationship and welfare
+- PGP term/overall health
+
+Decisions create inbox/media stories and are stored in professional-game history.
+A 35–69 day cooldown prevents the system becoming an inbox simulator.

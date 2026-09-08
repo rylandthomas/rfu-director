@@ -1,0 +1,25 @@
+RFU DIRECTOR — PHASE 2 FIXED TEST BUILD
+
+This is a separate Phase 2 project. Phase 1 remains untouched.
+
+FIXED IN THIS BUILD
+- Removed the broken white Phase 2 button columns.
+- Phase 2 sections are integrated into the normal left-hand sidebar.
+- All Phase 2 pages now render in the standard main content area.
+- English Rugby added to sidebar.
+- Development added to sidebar.
+- Relationships now uses the existing sidebar location and includes pressure states.
+- RFU Decisions added to sidebar.
+- Decision History added to sidebar.
+- Phase 2 decisions use the same RFU cash balance shown elsewhere in the game.
+- £2m support means an immediate £2m RFU cost.
+- £750k targeted support means an immediate £750k RFU cost.
+- Hidden relationship effects remain hidden before a decision.
+
+TEST
+1. Confirm there are no white columns or second navigation bar.
+2. Click English Rugby, Development, Relationships, RFU Decisions and Decision History from the left sidebar.
+3. Confirm each page replaces the main page content normally.
+4. Choose the £2m or £750k community support options and verify RFU cash falls by the stated amount.
+5. Check Relationships after decisions.
+6. Check International Rugby, Professional Rugby and Calendar still work normally.

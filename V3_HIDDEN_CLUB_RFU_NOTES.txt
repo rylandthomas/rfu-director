@@ -1,0 +1,26 @@
+V3 hidden club + RFU relevance framework
+
+Main changes:
+- moderated hidden pressure-event frequency;
+- longer cooldowns for repeat budget/recruitment/commercial-restructure actions;
+- separate hidden RFU risk signals for:
+  * England-player retention
+  * academy/pathway pressure
+  * ownership/governance
+  * club continuity
+- hidden club problems can accumulate without automatically notifying the RFU;
+- systemic English-rugby checks can now surface RFU-facing issues when several clubs are under pathway or retention pressure;
+- live game still does NOT manufacture named-player transfers: that remains the next system;
+- genuine systemic RFU events can create inbox notifications;
+- future transfer engine can convert retention pressure into named-player England-eligibility events.
+
+Developer stress test:
+stress_test_hidden_club_rfu_v3.js
+
+The stress test artificially accelerates player-transfer consequences only for auditing:
+- Domestic-only policy
+- 5-year service-based policy
+- Open selection
+
+It separately reports:
+hidden club events -> RFU risk signal months -> artificial player-risk events -> actual England eligibility events -> RFU approaches -> 12-month outcome.

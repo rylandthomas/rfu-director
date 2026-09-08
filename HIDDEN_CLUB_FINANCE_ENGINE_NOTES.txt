@@ -1,0 +1,34 @@
+RFU DIRECTOR — HIDDEN CLUB FINANCE ENGINE
+
+Implemented directly into the professional-game simulation.
+
+Hidden per-club drivers:
+- stadium capacity
+- underlying attendance demand
+- actual home-match attendance
+- average ticket yield
+- match-day ancillary spend
+- annual commercial strength
+- RFU / central distribution income
+- owner support
+- player wage bill
+- staff / operating costs
+- academy costs
+- debt service
+- other operating costs
+
+How it runs:
+- every simulated Premiership home game quietly calculates attendance and match-day income;
+- attendance responds to club support, form, league position, opponent draw, season importance and controlled variation;
+- attendance is capped by stadium capacity;
+- every month, hidden match-day income is combined with commercial, central and owner income;
+- wages, staff/operations, academy spending, debt service and other costs are deducted;
+- the monthly operating result changes cash, debt, financial health and stability;
+- prolonged poor results can create borrowing/debt pressure and pathway deterioration;
+- strong sustainable finances can modestly support academy development.
+
+Professional Game Stage 2 is now linked to this output:
+club-support events no longer rely on a purely seeded finance score; the visible financial-health state is synchronised from the hidden operating model.
+
+Attendance is deliberately NOT shown anywhere in the normal Premiership or Championship UI.
+It can still influence news/narratives later when a trend becomes strategically relevant.

@@ -1,0 +1,21 @@
+PHASE 3 STAGE 3 — CONDITION SEVERITY REFINEMENT
+
+Event severity now uses:
+- programme score
+- direction of travel
+- current annual RFU funding
+
+Examples:
+60 and stable/improving -> silence
+60 and declining -> warning article only
+50-59 with meaningful funding -> usually warning, not intervention
+45-49 -> intervention only if deterioration is genuine
+below 45 -> critical intervention territory
+
+Existing RFU investment is acknowledged in article/intervention wording.
+
+Referee example:
+Referee Development 60/100 with £3m annual funding will no longer trigger
+"Referee shortage requires RFU intervention" solely because the score is 60.
+
+The expected behaviour is silence or a softer monitoring article unless the trend worsens.

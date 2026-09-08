@@ -1,0 +1,12 @@
+Manager tab root cause fixed.
+
+Navigation was working. The Manager page crashed on render because it used
+`state.englandManager`, but the RFU Director game state object is `S`.
+
+Changed all three references to `S.englandManager`.
+
+Validated inside the application's own IIFE:
+- set International view to manager;
+- called internationalPage();
+- confirmed England head coach content rendered;
+- confirmed S.englandManager persisted successfully.

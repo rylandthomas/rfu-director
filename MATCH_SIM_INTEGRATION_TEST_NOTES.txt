@@ -1,0 +1,22 @@
+RFU DIRECTOR — FULL-SCREEN INTERNATIONAL MATCH FLOW
+
+Revision 2.
+
+FLOW
+1. Advance to the next England international.
+2. The normal RFU dashboard is replaced by a dedicated Match Day intro screen.
+3. Intro lightly shows:
+   - fixture / competition
+   - home or away
+   - England ranking
+   - opponent ranking
+   - England recent form
+   - recent H2H from recorded save results
+   - light opponent form indicator
+4. Nothing simulates until Kick Off is clicked.
+5. Kick Off opens the dedicated full-screen match simulation.
+6. The 80-minute match plays over about 120 real seconds.
+7. No manager controls, pitch or tactical decisions.
+8. At FT, Continue returns to the RFU Director dashboard.
+
+This uses a separate save key so testing does not overwrite the previous integration save.

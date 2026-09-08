@@ -1,0 +1,13 @@
+RFU Director V1.8.1 calibration update
+
+- Regional 2026 condition is no longer a permanent floor.
+- Every region now has an annual core-support requirement.
+- Withdrawing/reducing core support progressively damages participation, facilities, coaching and pathway capacity.
+- Enhanced recurring support can improve the underlying structural base slowly.
+- Capital projects still have delivery, peak, decay and legacy phases.
+- Project maintenance can now be paused/restored in the test management panel.
+- Pre-existing cohorts buffer senior England initially.
+- New regional cohorts mature into professional production after ~7 years and senior England depth after ~10 years.
+- U18/U20 pathway quality requires recurring programme/staff funding.
+- Elite pathway contribution is capped: it can refine talent but cannot replace a weak regional player pool.
+- Stress-test spending now includes recurring support/maintenance as well as capital.

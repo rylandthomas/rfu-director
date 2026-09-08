@@ -1,0 +1,17 @@
+RFU DIRECTOR — MANAGER ACTIONABILITY FIX
+
+The previous build relied on event listeners being attached after render.
+This build removes that fragile dependency.
+
+Fixed:
+- Overview, Players and Manager tabs now use direct onclick routing.
+- Manager tab directly calls setInternationalView('manager').
+- Manager page action buttons directly call managerAction(...).
+- Old post-render bindings for these controls were removed.
+- This makes the controls actionable even if other render binding code exits early.
+
+Manager actions currently:
+- Private Meeting: logs a private performance meeting.
+- Contract: shows current contract review information.
+- Manager Market: logs that the market system is pending.
+- Review Position: opens/logs a position review without dismissing the manager.

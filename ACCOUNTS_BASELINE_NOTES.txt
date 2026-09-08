@@ -1,0 +1,19 @@
+Accounts-based club finance calibration
+
+Published anchor:
+2023/24 turnover / reported result baseline for the ten Premiership clubs.
+Newcastle uses the latest figure available in the comparison source.
+
+Game-start projection:
+The 2023/24 anchor is projected to the 2026 game start using modest model assumptions:
+- turnover +4% per year
+- costs +2.5% per year
+
+These are simulation assumptions, not claimed audited 2026 club figures.
+
+Attendance:
+2023/24 attendance is used only to calibrate hidden matchday demand.
+Showpiece fixtures that took Harlequins/Saracens outside their normal home stadium are normalised for ordinary weekly demand; their commercial value remains captured in the published turnover baseline.
+
+The club business model starts from accounts turnover and implied costs.
+Attendance, results, owner backing, debt, costs and commercial drift then move clubs away from that baseline.

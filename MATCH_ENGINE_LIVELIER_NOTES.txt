@@ -1,0 +1,29 @@
+RFU DIRECTOR — LIVELIER INTERNATIONAL MATCH ENGINE
+
+Added non-scoring rugby events to the match feed while preserving the existing score engine.
+
+New visible events:
+- missed conversion
+- knock-on
+- scrum awarded
+- scrum won
+- kick to touch
+- pressure relieved
+- attacking kick to corner
+- lineout awarded
+- lineout won
+- lineout stolen
+- turnover won
+- clearance kick
+
+Events are state-aware:
+- knock-ons consider fatigue, territory and attacking quality;
+- scrum outcomes consider scrum ratings;
+- lineout outcomes consider lineout ratings;
+- pressure-relief kicking is more likely in poor field position;
+- attacking lineouts are more likely in advanced territory;
+- turnovers are more likely during longer phase sequences.
+
+No player names are used yet.
+Once player data is added, these same event hooks can become:
+'Smith knocks on', 'Itoje steals the lineout', etc.

@@ -1,0 +1,20 @@
+PHASE 3 — STAGE 3: PROFESSIONAL PYRAMID MOVEMENT
+
+Implemented first Stage 3 layer:
+
+- Champ Rugby champion is reviewed at season end.
+- Promotion operating standard checks:
+  * Facilities >= 65
+  * Financial health >= 60
+  * Organisational stability >= 58
+- Champion must meet the standard; the game does not automatically skip to second place.
+- Eligible champion is promoted.
+- Bottom PREM club is relegated.
+- Club ecosystem records move with the club rather than being recreated.
+- Promotion/relegation affects supporters, stability, finances and attendance.
+- Blocked promotion produces no relegation.
+- Professional pyramid history is recorded.
+- Championship cards explain which standards a failing club still needs.
+
+This is the foundation of Stage 3. RFU intervention/funding cases around clubs approaching
+promotion standards are the next layer after this movement logic is tested.

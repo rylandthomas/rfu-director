@@ -1,0 +1,22 @@
+RFU Director V1.9.0 — Career Governance upgrade
+
+Premise review
+--------------
+The strongest lesson from Football President / FA President is role clarity: the player should feel like the person at the top of the organisation, not a coach with extra menus. The career therefore needs a mandate, constituencies that can remove you, a recurring desk of RFU-level business, long-horizon investment, and a permanent record of decisions.
+
+V1.9 changes
+------------
+- Overview rebuilt as the Director's Desk.
+- Added four-year RFU Board Mandates with four pillars: finance, England performance, English rugby pipeline, and professional-game stability.
+- Added annual scorecards, mandate renewal, one-season probation, and possible dismissal after severe failure.
+- Added a persistent tenure ledger.
+- Added This Period's Business: only RFU-level matters are surfaced for action.
+- Simplified navigation: Programmes and Facilities are now inside Development rather than duplicate sidebar destinations.
+- Development now has Overview / Regional Network / Facilities & Infrastructure / England Pathway sub-tabs.
+- Regional Development Network is now stored inside the main game save rather than a separate window.state.
+- Regional network advances once per season with the main game.
+- Regional core funding, maintenance and pathway changes now flow into the RFU annual expenditure model.
+- Regional capital projects now deduct actual RFU cash.
+- England U18/U20 pathway budget and staffing controls are now actionable.
+- Development Network UI restyled to match the dark RFU Director interface.
+- Existing International, Professional Rugby, club autonomy, match engine, contracts, media/events and finance systems retained.

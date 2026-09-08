@@ -1,0 +1,17 @@
+RFU DIRECTOR — MATCH SPEED CONTROL
+
+Added directly below Possession and Territory:
+
+- Normal
+- 2×
+
+Normal:
+2 simulated match minutes every 3 real seconds.
+Approx. 2-minute full match.
+
+2×:
+2 simulated match minutes every 1.5 real seconds.
+Approx. 1-minute full match.
+
+The active speed button is highlighted.
+Changing speed during a running match immediately restarts the playback timer at the new rate.

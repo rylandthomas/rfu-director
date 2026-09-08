@@ -1,0 +1,27 @@
+PHASE 2 — RESPONSE INTERPRETER REPAIR
+
+Separate build.
+
+Fixes:
+1. Positive England / Six Nations success questions now accept valid causal answers such as:
+   - coaching staff
+   - investment in rugby
+   - grassroots/community rugby
+   - academies/U20/pathway
+   - players/clubs
+   - long-term strategy
+
+2. A response like:
+   "The success is down to the coaching staff, continued investment in the sport and the strength of our grassroots game."
+   should now be treated as a relevant/strong answer rather than off-topic.
+
+3. Commitment detection now requires future-looking promise language:
+   - "we will invest..."
+   - "we intend to review..."
+   - "we plan to expand..."
+   Merely saying "investment has helped" no longer creates a public promise.
+
+4. Removed duplicated commitment/revisited sentence.
+
+5. Added positive England-success stakeholder/media reaction copy, including:
+   "RFU credits wider rugby system for England success"

@@ -1,0 +1,13 @@
+Blank-screen fix
+
+Root cause:
+The inherited club-finance build was missing the core p3Ensure() initializer.
+The browser therefore crashed during startup when Championship/calendar setup called p3Ensure().
+
+Fixed:
+- Restored p3Ensure() with the current finance-profile migration.
+- Preserved Selection Criteria functionality.
+- Fresh save key.
+- Runtime-tested full app startup.
+- Runtime-tested International > Selection Criteria rendering.
+- Runtime-tested changing overseas policy to Service-based.

@@ -1,0 +1,22 @@
+RFU DIRECTOR — INTERNATIONAL SUB-NAVIGATION REPAIR
+
+Rebuilt the interaction wiring for International Rugby.
+
+The problem:
+The app replaces #app.innerHTML on every render. Previous tab/action bindings were
+attached directly to elements and became fragile as the page was rebuilt.
+
+The fix:
+- One document-level delegated click handler is installed once.
+- Overview, Players and Manager all use data-intview.
+- Manager controls use data-manager-action.
+- Player filters use the same delegated mechanism.
+- This handler survives every render and no longer depends on re-attaching tab buttons.
+- Player search remains a normal post-render input binding.
+
+Expected:
+Overview -> clickable
+Players -> clickable
+Manager -> clickable
+Manager action controls -> clickable
+Player filter controls -> clickable

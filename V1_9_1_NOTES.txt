@@ -1,0 +1,26 @@
+RFU Director V1.9.1 — Professional Rugby Actionability
+
+Professional Rugby is no longer observation-only.
+
+Added RFU Policy tab:
+- Central club distributions: constrained/current/enhanced
+- Professional academy & pathway support
+- England player access policy
+- Player welfare/rest policy
+- Partnership negotiating stance
+- Formal PGP review with cooldown
+- Recent RFU professional-game decision history
+
+Design principle:
+Professional clubs remain autonomous. The RFU controls the things an RFU Director should:
+funding frameworks, access, welfare, pathway obligations, governance and the Professional Game Partnership.
+
+Policy changes:
+- update real annual RFU expenditure
+- influence club relationships/stability gradually
+- influence player relationships/welfare
+- influence academy development
+- persist in the career save
+- avoid repeat-click exploits by applying most consequences over time
+
+The old raw 'Club Health' tab has been removed from the primary navigation and replaced by RFU Policy.

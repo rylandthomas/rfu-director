@@ -1,0 +1,15 @@
+Finance & Commercial cleanup
+
+Finance & Commercial:
+- Overview
+- Income
+- Expenditure
+- Commercial
+
+Removed Contracts.
+
+England head-coach contract remains International > Manager.
+England player/RFU agreements belong International > Players.
+Professional-game funding commitments sit under Expenditure.
+Commercial contains revenue-generating sponsorship, supply, broadcast and related agreements.
+Finance reflects the cost of England agreements without duplicating contract management.

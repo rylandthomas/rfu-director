@@ -1,0 +1,17 @@
+PHASE 3 STAGE 1 — INTERNATIONAL-PACED GAME CLOCK
+
+Player-facing game pacing now revolves around England internationals.
+
+- Calendar shows England fixtures only.
+- +1 Day / +1 Week removed.
+- Main progression is Advance to next England fixture.
+- Professional Rugby still has no advancement button.
+
+The hidden simulation still moves daily between Tests:
+Premiership rounds, club health, regional rugby, programmes, finances, projects,
+board/season processing, delayed consequences and commitments all continue.
+
+Mandatory questions pause the jump instead of being skipped.
+
+The original Premiership engine remains authoritative. Phase 3 club competition
+records are synced from that league rather than running a second set of results.

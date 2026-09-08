@@ -1,0 +1,6 @@
+RFU Director V1.8.2
+- Removed the Development Network test panel from the bottom of every page.
+- Integrated the V1.8.1 Regional Development Network into the existing Development page.
+- Existing RFU Development programmes remain at the top.
+- Regional Development Network now extends that page below them.
+- V1.8.1 calibrated core funding, degradation, cohort lag and project maintenance mechanics retained.

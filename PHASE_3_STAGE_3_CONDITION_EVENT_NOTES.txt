@@ -1,0 +1,41 @@
+PHASE 3 STAGE 3 — CONDITION-LED EVENT ENGINE
+
+NEW EVENT FLOW
+Healthy / improving -> occasional informational news article
+Stable -> usually silence
+Early decline -> warning article
+Poor / critical -> intervention event requiring response
+Successful intervention -> later positive outcome article
+Poor intervention -> later escalation article
+
+PROGRAMME THRESHOLDS
+75+ healthy
+60-74 watch
+45-59 poor
+below 45 critical
+
+HEALTHY SYSTEMS
+Generic questions are suppressed for:
+- Grassroots
+- Referees
+- Schools
+- Women's Rugby
+- Academy Pathway
+when programme health is 60+.
+
+CONSEQUENCE BALANCE
+Good intervention:
+- small positive relationship effect (+1 / +2)
+- small programme recovery
+Bad intervention:
+- heavy relationship penalty (-5 / -8)
+- programme deterioration
+- later negative follow-up article
+
+GENERIC EVENTS
+Routine generic media questions are now extremely rare:
+- maximum 2 per season
+- at least 14 weeks apart
+- very low random chance
+
+Most popups should now be articles, not questions.

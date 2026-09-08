@@ -1,0 +1,12 @@
+International Rugby > Players implemented.
+
+Layout:
+- Spreadsheet/table rather than large player cards.
+- Overview / Players sub-tabs.
+- Position groups: Front row, Second row, Back row, Half backs, Centres, Back three.
+- Columns: Player, position, age, club, form/trend, fitness, England status, caps, RFU status, eligibility.
+- Filters: All, Forwards, Backs, Available, Injured.
+- Search by player/club/position.
+- Underlying numerical match attributes remain hidden.
+
+This is currently England-only by design.

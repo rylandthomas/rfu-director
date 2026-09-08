@@ -1,0 +1,10 @@
+PHASE 2 FREE-TEXT RESPONSE SYSTEM
+
+- Media and stakeholder conversations now use tone + free text.
+- Operational/financial decisions keep buttons.
+- Hidden parser checks relevance, coverage, action, evasiveness, dismissiveness, length and keyword stuffing.
+- Grades: Strong / Adequate / Weak / Failed.
+- Off-topic answers are negative even with a polite tone.
+- Tone is a second layer: Positive, Neutral, Diplomatic, Firm, Abrupt, Defensive.
+- Public commitments can be remembered and revisited later.
+- Immediate article/reaction explains whether the answer landed, without revealing numeric buffs/debuffs.

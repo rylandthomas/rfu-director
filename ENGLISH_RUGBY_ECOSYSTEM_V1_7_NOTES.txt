@@ -1,0 +1,36 @@
+English Rugby Ecosystem V1.7
+
+Hidden health areas:
+- Professional Game Health
+- Player Pathway Health
+- Grassroots Health
+- Infrastructure Health
+- Club Financial Pressure
+- Player Production Index
+- England Talent Depth
+- Commercial Strength
+- Academy Opportunity
+
+Key design:
+- Player Drain is one input, not the master score.
+- Moderate drain can create extra academy opportunity.
+- Persistent heavy drain weakens professional-game quality/commercial strength.
+- Grassroots and infrastructure effects are delayed.
+- Player production uses 3-10 year lags.
+- England depth is delayed further.
+- Normal internal metrics remain hidden from the RFU Director.
+- Only thresholded structural issues generate RFU-facing reviews.
+
+Stress test:
+50 runs x 30 years for:
+1. Domestic + normal investment
+2. Open + normal investment
+3. Open + strong investment
+4. Open + low investment
+5. Open + zero investment
+6. Domestic + zero investment
+
+V1.7.1 calibration
+- Academy opportunity is now separate from Pathway Health.
+- Overseas movement can create more first-team opportunities without directly improving academy/coaching/pathway quality.
+- Academy opportunity still provides a small positive contribution to player production.

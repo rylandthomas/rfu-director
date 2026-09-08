@@ -1,0 +1,5 @@
+Player Layer 1:
+Altered-name England/Australia development rosters added.
+Other opponents receive generated fictional names.
+Existing match events now select plausible players by rugby role.
+The underlying scoring and match simulation are unchanged.

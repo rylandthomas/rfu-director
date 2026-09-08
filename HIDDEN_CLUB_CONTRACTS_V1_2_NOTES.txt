@@ -1,0 +1,23 @@
+Hidden Club Contracts V1.2
+
+Changes from V1.1:
+- fixed repeated-renewal cycle bug;
+- realistic new-deal lengths by age;
+- formal review blocked until final 12 months of the NEW deal;
+- renewal outcome is probabilistic rather than deterministic;
+- player form, fitness, age, status and caps influence market interest;
+- domestic/overseas interest is dynamic;
+- non-renewal now records a reason:
+  club affordability
+  club chooses release
+  player rejects terms
+  security gap
+  overseas interest
+  domestic interest
+  age profile
+  terms not agreed
+- no actual transfers yet;
+- club contract data remains hidden from RFU UI.
+
+Run:
+node stress_test_hidden_club_contracts_v1_2.js

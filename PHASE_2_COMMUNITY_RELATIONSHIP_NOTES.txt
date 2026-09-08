@@ -1,0 +1,18 @@
+PHASE 2 — COMMUNITY RELATIONSHIP UPDATE
+
+Separate build; previous Phase 2 Media Feedback build remains untouched.
+
+Relationship panel now includes:
+- Board
+- Supporters
+- Media
+- Professional clubs
+- Community Rugby
+- Players
+
+Community Rugby represents grassroots/community clubs, volunteers, county structures,
+schools/youth rugby and the amateur game.
+
+Existing lifecycle events already contain hidden community/player relationship effects;
+this update exposes the resulting overall standings in the relationship screen without
+revealing individual decision buffs/debuffs before choices are made.

@@ -1,0 +1,16 @@
+Finance Stage 1
+
+Purpose: establish a realistic, constrained RFU financial baseline before exposing budget controls.
+
+Model:
+- Revenue split into England match-day, hospitality/events, broadcast, sponsorship/commercial and other income.
+- Costs split into RFU operations, England teams, club funding, professional academies/pathways, rugby development and strategic/other investment.
+- Cash reserves are separate from annual operating result.
+- A committed liquidity buffer prevents the UI implying all reserves are freely spendable.
+- World Cup-year/calendar pressure is surfaced.
+- Stage 1 is read-only while multi-season behaviour is validated.
+
+Calibration references used during design:
+RFU 2023/24: £175.2m revenue, £117.0m operating costs, £65.6m professional rugby investment, £30.5m rugby development investment and £37.9m operating loss.
+RFU 2024/25 report: England teams £28.4m; club funding £24.2m; professional-game investment reflects the new MPGP structure.
+Game categories are deliberately simplified rather than presented as audited accounting categories.
